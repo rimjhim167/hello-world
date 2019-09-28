@@ -1,2 +1,2 @@
 # hello-world
-Welcome to my fisrt repository.
+Welcome to my first repository.
